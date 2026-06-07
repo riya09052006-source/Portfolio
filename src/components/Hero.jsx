@@ -100,7 +100,7 @@ const Hero = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://www.linkedin.com/in/riya-patel95"
+                href="https://www.linkedin.com/in/riya-patel95/"
                 target="_blank"
                 rel="noreferrer"
                 id="hero-social-linkedin"

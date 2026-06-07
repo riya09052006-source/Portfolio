@@ -55,7 +55,7 @@ const Footer = () => {
               <Github className="w-4 h-4" />
             </a>
             <a
-              href="https://www.linkedin.com/in/riya-patel95"
+              href="https://www.linkedin.com/in/riya-patel95/"
               target="_blank"
               rel="noreferrer"
               id="footer-social-linkedin"

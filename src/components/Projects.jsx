@@ -119,7 +119,7 @@ const Projects = () => {
                 <div className="p-6 flex flex-col justify-between flex-grow text-left">
                   <div>
                     <h3 className="text-2xl font-bold text-slate-900 dark:text-white mb-3">{project.title}</h3>
-                    <p className="text-slate-655 text-slate-600 dark:text-slate-400 text-sm font-light leading-relaxed mb-6">
+                    <p className="text-slate-600 dark:text-slate-400 text-sm font-light leading-relaxed mb-6">
                       {project.description}
                     </p>
                   </div>

@@ -116,17 +116,17 @@ const Contact = () => {
                   target="_blank"
                   rel="noreferrer"
                   id="contact-social-github"
-                  className="flex items-center gap-2 px-5 py-3 rounded-xl glass-morphism border-slate-200 dark:border-white/10 text-slate-655 text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:border-brand-purple/35 font-medium transition-all duration-200"
+                  className="flex items-center gap-2 px-5 py-3 rounded-xl glass-morphism border-slate-200 dark:border-white/10 text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:border-brand-purple/35 font-medium transition-all duration-200"
                 >
                   <Github className="w-5 h-5" />
                   <span>GitHub</span>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/riya-patel95"
+                  href="https://www.linkedin.com/in/riya-patel95/"
                   target="_blank"
                   rel="noreferrer"
                   id="contact-social-linkedin"
-                  className="flex items-center gap-2 px-5 py-3 rounded-xl glass-morphism border-slate-200 dark:border-white/10 text-slate-655 text-slate-600 dark:text-slate-300 hover:text-brand-purple hover:border-brand-purple/35 font-medium transition-all duration-200"
+                  className="flex items-center gap-2 px-5 py-3 rounded-xl glass-morphism border-slate-200 dark:border-white/10 text-slate-600 dark:text-slate-300 hover:text-brand-purple hover:border-brand-purple/35 font-medium transition-all duration-200"
                 >
                   <Linkedin className="w-5 h-5" />
                   <span>LinkedIn</span>
@@ -162,7 +162,7 @@ const Contact = () => {
                       <ShieldCheck className="w-8 h-8" />
                     </div>
                     <h4 className="text-2xl font-extrabold text-slate-900 dark:text-white mb-2">Message Transmitted!</h4>
-                    <p className="text-slate-655 text-slate-600 dark:text-slate-400 text-sm font-light max-w-sm mb-8">
+                    <p className="text-slate-600 dark:text-slate-400 text-sm font-light max-w-sm mb-8">
                       Thank you. Your message has been successfully encrypted and delivered to Riya Patel.
                     </p>
                     <button
