@@ -60,6 +60,17 @@ riya-portfolio/
 
 Ensure you have Node.js installed on your machine.
 
+### Environment Variables
+
+The contact form is integrated with **Web3Forms** for backend-less email delivery. 
+
+1. Obtain a free Access Key at [Web3Forms](https://web3forms.com/) by providing your email address.
+2. Create a `.env` file in the root directory:
+   ```env
+   VITE_WEB3FORMS_ACCESS_KEY=your_access_key_here
+   ```
+3. When deploying to production (e.g., Vercel), add `VITE_WEB3FORMS_ACCESS_KEY` to your project's Environment Variables settings.
+
 ### Installation
 
 1. Clone or copy the project files to your system.
